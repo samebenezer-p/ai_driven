@@ -1,0 +1,15 @@
+Exercise 1 – Code Generation and Testing (Qwen2.5-Coder)
+ollama pull qwen2.5-coder:7b
+pip install ollama
+python filename.py
+
+
+Exercise 2 – GAN Implementation (CodeGemma)
+ollama pull codegemma:2b
+pip install ollama
+python selection_sort.py
+python insertion_sort.py
+
+for select/insertion 
+# python gan_sort.py selection
+# python gan_sort.py insertion    
